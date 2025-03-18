@@ -83,7 +83,17 @@
 
 /* Start of the body_part_1 */
 .body_part_1{
-    height: 980px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 612px;
     width: auto;
     background-color: #F5F5F5;
+}
+
+.image-2, .image-3 , .image-4 , .image-5{
+  height: 28px;
+  width: 90px;
+  margin-right: 5%;
+  margin-bottom: 1%;
 }
