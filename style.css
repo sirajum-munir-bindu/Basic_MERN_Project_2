@@ -19,7 +19,6 @@
   width: 144px;
   display: flex;
   align-items: center;
-    margin-left: 100px;
 }
 
 .logo_circle {
@@ -91,9 +90,119 @@
     background-color: #F5F5F5;
 }
 
+.body_part_1_left_text_1{
+    font-family: Playfair Display;
+    font-weight: 900;
+    font-size: 80px;
+    line-height: 80px;
+    letter-spacing: 1.5px;
+    color: #094B72;
+    position: absolute;
+    top: 22%;
+}
+
+.body_part_1_left_text_2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: 1.5px;
+    color: #4F4F4F;
+    margin-top: 5%;
+    position: absolute;
+    top: 35%;
+}
+
+.button_2{
+    height: 60px;
+    width: 180px;
+    border-radius: 10px;
+    background-color: #094B72;
+    border: none;
+    color: #F9F8F9;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 23px;
+    letter-spacing: 1.5px;
+    margin-top: 95%;
+}
+
+.button_link{
+    text-decoration: none;
+    color: #F9F8F9;
+}
+
+.body_part_1_left_text_3{
+  margin-top: 20%;
+  color: #848484;
+
+}
+
 .image-2, .image-3 , .image-4 , .image-5{
   height: 28px;
   width: 90px;
   margin-right: 5%;
   margin-bottom: 1%;
+}
+
+.image-1{
+  height: 612px;
+  width: 500px;
+}
+
+.company_logo_1{
+  margin-top: 10%;
+}
+
+.company_logo_1_first{
+  margin-bottom: 2%;
+}
+
+.body_part_2{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 600px;
+  width: auto;
+  background-color: #F2FCFF;
+}
+
+.body_part_2_left_text_1{
+  font-family: Playfair Display;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 40px;
+  letter-spacing: 1px;
+  color: #2D2F30; 
+}
+
+.body_part_2_left_text_2{
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 20px;
+  letter-spacing: 1px;
+  color: #8B8C8C;
+  margin-top: 2%;
+}
+
+.body_part_2_right_box_1 ,
+.body_part_2_right_box_2 ,
+.body_part_2_right_box_3 ,
+.body_part_2_right_box_4 {
+  height: 250px;
+  width: 240px;
+  background-color: #FCFCFC;
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px rgba(57, 56, 56, 0.25);
+  margin-top: 5%;
+  margin-right: 4%;
+}
+
+.body_part_2_right_box_first ,
+.body_part_2_right_box_second{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;  
 }
