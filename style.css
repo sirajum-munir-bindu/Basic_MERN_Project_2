@@ -206,3 +206,44 @@
   justify-content: space-evenly;
   align-items: center;  
 }
+
+i{
+  font-size: 28px;
+  margin-left: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  color: #027794;
+}
+
+.body_part_2_right_box_1_headline_1,
+.body_part_2_right_box_2_headline_2,
+.body_part_2_right_box_3_headline_3,
+.body_part_2_right_box_4_headline_4{
+  font-family: Playfair Display;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 22px;
+  letter-spacing: 0.5px;
+  color: #363940;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 5%;
+}  
+
+.body_part_2_right_box_1_text_1,
+.body_part_2_right_box_2_text_2,
+.body_part_2_right_box_3_text_3,
+.body_part_2_right_box_4_text_4{
+  font-family: Plus Jakarta Sans;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0.5px;
+  color: #8B8C8C;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  vertical-align: middle;
+  text-align: justify;
+}
