@@ -576,4 +576,24 @@ i {
   letter-spacing: 0px;
   color: #EEEFF4;
 }
+
+
+.footer_end{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #05546D;
+  height: 60px;
+  width: auto;
+}
+
+.footer_end b{
+  padding-right: 40%;
+  color: #F9F8F9;
+} 
+
+.footer_end i{
+  color: white;
+  font-size: 24px;
+}
 /* End of the Footer part */
